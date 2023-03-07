@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My Self Chanakya Vasantha student at Indian Institute of Information Technology Design and Manufacturing ( IIITDM Kancheepuram ), pursuing btech in computer science and engineering with major in artificial intelligence.
+#### My Self Chanakya Vasantha student at Indian Institute of Information Technology Design and Manufacturing (IIITDM Kancheepuram), pursuing btech in computer science and engineering with major in artificial intelligence.
 #### My Skills Include: 
 - Algorithm Design
 - Machine Learning
