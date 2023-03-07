@@ -1,16 +1,15 @@
 ### Hi there 👋
+#### My Self Chanakya Vasantha student at Indian Institute of Information Technology Design and Manufacturing ( IIIDM Kancheepuram ), pursuing btech in computer science and engineering with major in artificial intelligence.
+#### My Skills Include: 
+- Algorithm Design
+- Machine Learning
+- AI application using popular libraries like tensorflow, scikitlearn
+- Fully Responsive Front end web design
+- Data Science
+- 🔭 I’m currently working on Electric Vehicle Charge Scheduling problem.
+- 🌱 I’m currently learning Natural Language Processing.
+- 👯 I’m looking to collaborate on AI realted projects.
+- 🤔 I’m looking for help with Buliding a interactive chat bot using AI and also Expert systems.
+- 📫 How to reach me: chanakyavasantha@gmail.com
+- ⚡ Fun fact: Once a coder, never a loser.
 
-<!--
-**chanakyavasantha/ChanakyaVasantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
