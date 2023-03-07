@@ -3,7 +3,7 @@
 #### My Skills Include: 
 - Algorithm Design
 - Machine Learning
-- AI application using popular libraries like tensorflow, scikitlearn
+- Buliding AI applications using popular libraries like tensorflow, scikitlearn
 - Fully Responsive Front end web design
 - Data Science
 - 🔭 I’m currently working on Electric Vehicle Charge Scheduling problem.
