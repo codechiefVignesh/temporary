@@ -7,7 +7,7 @@
 - Fully Responsive Front end web design
 - Data Science
 - 🔭 I’m currently working on Electric Vehicle Charge Scheduling problem,Voice Cloning Using Deep Learning.
-- 🌱 I’m currently learning Natural Language Processing.
+- 🌱 I’m currently learning Natural Language Processing and Quantum Cmputing.
 - 👯 I’m looking to collaborate on AI realted projects.
 - 🤔 I’m looking for help with Buliding a interactive chat bot using AI and also Expert systems.
 - 📫 How to reach me: chanakyavasantha@gmail.com
