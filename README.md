@@ -12,4 +12,15 @@
 - 🤔 I’m looking for help with Buliding a interactive chat bot using AI and also Expert systems.
 - 📫 How to reach me: chanakyavasantha@gmail.com
 - ⚡ Fun fact: Once a coder, never a loser.
+#### Tools i use to code:
+- Tensorflow, scikit learn, numpy , pandas
+#### Programming languages:
+- C, C++, python, assembly 8086.
+#### Popular Projects:
+- Tiny ML project : Deploying ANN for classification of consumable life time used in cutting machines @ESAB india pvt ltd in stm32 micro controller.
+- Blog Network for Educational AI BLogs using django
+- Image quality assesment of medical images using RESNET-50 and EfficientNet
+- Title Classification based on NLP
+- Facial Recognition through Eigen face approach ( ML )
+  
 
