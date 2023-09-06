@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on AI realted projects.
 - 🤔 I’m looking for help with Buliding a interactive chat bot using AI and also Expert systems.
 - 📫 How to reach me: chanakyavasantha@gmail.com
-- ⚡ Fun fact: Once a coder, never a loser.
+- ⚡ Fun fact: If you don't have internet, run on local servers.
 #### Tools i use to code:
 - Tensorflow, scikit learn, numpy , pandas, C++ STL,mlflow
 #### Programming languages:
