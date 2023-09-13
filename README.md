@@ -28,7 +28,7 @@ Feel free to connect with me here:
 <img height=140 src="https://streak-stats.demolab.com?user=chanakyavasantha&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak">
 
 
-![Snake animation](https://github.com/abhishekmj303/abhishekmj303/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 </div>
