@@ -1,6 +1,7 @@
 # Hi there <img src="wave.gif" width=33>
 
-I'm Chanakya vasantha,Currently Pursuing Btech in computer science with major in AI @[IIIT Kancheepuram](https://www.iiitdm.ac.in/).Interested in AI, ML, ...
+I'm Chanakya vasantha,Currently Pursuing Btech in computer science with major in AI @[IIIT Kancheepuram](https://www.iiitdm.ac.in/).
+My Area of interests:
 
 Feel free to connect with me here:
 <div align="center">
