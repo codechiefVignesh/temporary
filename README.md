@@ -11,7 +11,12 @@ Feel free to connect with me here:
 
 
 ## Technology Stack:
-
+- Python
+- C
+- C++
+- Data Science
+- Machine Learning
+- Optimization using ML
 
 
 ## 📈 Stats 📉
