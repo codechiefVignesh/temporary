@@ -10,7 +10,7 @@ Feel free to connect with me here:
 [![Gmail Badge](https://img.shields.io/badge/gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto:abhishekmj303@gmail.com)](mailto:chanakyavasantha@gmail.com)
 
 
-## Technologies:
+## Technology Stack:
 
 
 
