@@ -11,12 +11,13 @@ Feel free to connect with me here:
 
 
 ## Technology Stack:
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-- ![Data Science](https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=datascience&logoColor=white)
-- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=machinelearning&logoColor=white)
-- ![Optimization using ML](https://img.shields.io/badge/Optimization%20using%20ML-3776AB?style=for-the-badge&logo=machinelearning&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<br>
+![Data Science](https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=datascience&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=machinelearning&logoColor=white)
+![Optimization using ML](https://img.shields.io/badge/Optimization%20using%20ML-3776AB?style=for-the-badge&logo=machinelearning&logoColor=white)
 
 ## 📈 Stats 📉
 
