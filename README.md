@@ -17,7 +17,11 @@ Feel free to connect with me here:
 <br>
 ![Data Science](https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=datascience&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=machinelearning&logoColor=white)
-![Optimization using ML](https://img.shields.io/badge/Optimization%20using%20ML-3776AB?style=for-the-badge&logo=machinelearning&logoColor=white)
+![Tiny ML](https://img.shields.io/badge/Optimization%20using%20ML-3776AB?style=for-the-badge&logo=machinelearning&logoColor=white)
+<br>
+![Tensorflow](https://img.shields.io/badge/Optimization%20using%20ML-3776AB?style=for-the-badge&logo=machinelearning&logoColor=white)
+![Sklearn](https://img.shields.io/badge/Optimization%20using%20ML-3776AB?style=for-the-badge&logo=machinelearning&logoColor=white)
+<br>
 
 ## 📈 Stats 📉
 
