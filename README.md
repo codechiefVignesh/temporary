@@ -33,7 +33,7 @@ Feel free to connect with me here:
   <img height=140 src="https://github-readme-stats.vercel.app/api?username=chanakyavasantha&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Stats">
 </a>
 <a>
-  <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanakyavasantha&layout=compact&exclude_repo=ADS-lab,TSP-using-GA,PR-ML-Lab&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
+  <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanakyavasantha&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
 </a>
 
 <img height=140 src="https://streak-stats.demolab.com?user=chanakyavasantha&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak">
