@@ -22,6 +22,7 @@ Feel free to connect with me here:
 <br>
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-3776AB?style=for-the-badge&logo=machinelearning&logoColor=white)
 ![Sklearn](https://img.shields.io/badge/Sklearn-3776AB?style=for-the-badge&logo=machinelearning&logoColor=white)
+![LangChain](https://img.shields.io/badge/Sklearn-3776AB?style=for-the-badge&logo=machinelearning&logoColor=white)
 <br>
 
 ## 📈 Stats 📉
