@@ -26,6 +26,21 @@ Feel free to connect with me here:
 <span style="font-size: 1.2em;">[![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-Skilled-orange)](https://your-link-here)</span>
 <span style="font-size: 1.2em;">[![Domain Knowledge](https://img.shields.io/badge/Domain%20Knowledge-Strong-lightblue)](https://your-link-here)</span>
 
+
+### Tools and Libraries
+[![Git](https://img.shields.io/badge/Git-Proficient-blue)](https://your-link-here)
+[![GitHub](https://img.shields.io/badge/GitHub-Proficient-blue)](https://your-link-here)
+[![VS Code](https://img.shields.io/badge/VS%20Code-Proficient-blue)](https://your-link-here)
+[![JetBrains](https://img.shields.io/badge/JetBrains-Proficient-blue)](https://your-link-here)
+
+### Key Libraries
+[![sklearn](https://img.shields.io/badge/Scikit--Learn-(sklearn)-Proficient-blue)](https://your-link-here)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-Proficient-blue)](https://your-link-here)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Proficient-blue)](https://your-link-here)
+[![NumPy](https://img.shields.io/badge/NumPy-Advanced-orange)](https://your-link-here)
+[![Pandas](https://img.shields.io/badge/Pandas-Advanced-orange)](https://your-link-here)
+
+
 ## 📈 Stats 📉
 
 [![GitHub Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2chanakyavasantha&label=profile%20views&labelColor=%231e1e2e&countColor=%23cba6f7)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fchanakyavasantha)
