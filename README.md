@@ -51,8 +51,10 @@ Feel free to connect with me here:
 <a>
   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanakyavasantha&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
 </a>
+<a>
+  <img height=150 src="https://streak-stats.demolab.com?user=chanakyavasantha&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak">
+</a>
 
-<img height=150 src="https://streak-stats.demolab.com?user=chanakyavasantha&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak">
 
 
 ![Chanakya Vasantha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chanakyavasantha&custom_title=chanakya%20Vasantha's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
