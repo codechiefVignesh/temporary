@@ -34,7 +34,6 @@ Feel free to connect with me here:
 [![JetBrains](https://img.shields.io/badge/JetBrains-Proficient-blue)](https://your-link-here)
 
 ### Key Libraries
-[![sklearn](https://img.shields.io/badge/Scikit--Learn-(sklearn)-Proficient-blue)](https://your-link-here)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-Proficient-blue)](https://your-link-here)
 [![PyTorch](https://img.shields.io/badge/PyTorch-Proficient-blue)](https://your-link-here)
 [![NumPy](https://img.shields.io/badge/NumPy-Advanced-orange)](https://your-link-here)
