@@ -29,6 +29,7 @@ Feel free to connect with me here:
 <img height=150 src="https://streak-stats.demolab.com?user=chanakyavasantha&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak">
 
 
+![Chanakya Vasantha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chanakyavasantha&custom_title=chanakya%20Vasantha's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
