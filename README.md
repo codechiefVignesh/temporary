@@ -12,17 +12,19 @@ Feel free to connect with me here:
 
 
 ## Technology Stack:
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-brightgreen)](https://your-link-here)
-[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Proficient-blue)](https://your-link-here)
-[![Python](https://img.shields.io/badge/Python-Advanced-orange)](https://your-link-here)
-[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Skilled-yellow)](https://your-link-here)
-[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Proficient-brightblue)](https://your-link-here)
-[![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-Knowledgeable-lightgrey)](https://your-link-here)
-[![SQL](https://img.shields.io/badge/SQL-Competent-blueviolet)](https://your-link-here)
-[![Big Data Technologies](https://img.shields.io/badge/Big%20Data%20Tech-Familiar-yellowgreen)](https://your-link-here)
-[![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-Expert-brightgreen)](https://your-link-here)
-[![Version Control](https://img.shields.io/badge/Version%20Control-Proficient-blue)](https://your-link-here)
-[![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-Skilled-orange)](https://your-link-here)
+
+<span style="font-size: 1.2em;">[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-brightgreen)](https://your-link-here)</span>
+<span style="font-size: 1.2em;">[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Proficient-blue)](https://your-link-here)</span>
+<span style="font-size: 1.2em;">[![Python](https://img.shields.io/badge/Python-Advanced-orange)](https://your-link-here)</span>
+<span style="font-size: 1.2em;">[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Skilled-yellow)](https://your-link-here)</span>
+<span style="font-size: 1.2em;">[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Proficient-brightblue)](https://your-link-here)</span>
+<span style="font-size: 1.2em;">[![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-Knowledgeable-lightgrey)](https://your-link-here)</span>
+<span style="font-size: 1.2em;">[![SQL](https://img.shields.io/badge/SQL-Competent-blueviolet)](https://your-link-here)</span>
+<span style="font-size: 1.2em;">[![Big Data Technologies](https://img.shields.io/badge/Big%20Data%20Tech-Familiar-yellowgreen)](https://your-link-here)</span>
+<span style="font-size: 1.2em;">[![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-Expert-brightgreen)](https://your-link-here)</span>
+<span style="font-size: 1.2em;">[![Version Control](https://img.shields.io/badge/Version%20Control-Proficient-blue)](https://your-link-here)</span>
+<span style="font-size: 1.2em;">[![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-Skilled-orange)](https://your-link-here)</span>
+<span style="font-size: 1.2em;">[![Domain Knowledge](https://img.shields.io/badge/Domain%20Knowledge-Strong-lightblue)](https://your-link-here)</span>
 
 ## 📈 Stats 📉
 
