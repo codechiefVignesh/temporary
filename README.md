@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Data Scientist and Machine Learning Enthusiast from India</h3>
 
 
+<h4 align="center">Feel free to connect with me here:</h4>
 
-Feel free to connect with me here:
+
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-181825?style=for-the-badge&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/chanakya-chowdary-vasantha-081a00222)](https://www.linkedin.com/in/chanakya-chowdary-vasantha-081a00222)
