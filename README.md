@@ -39,10 +39,10 @@
 
 
 <a>
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=chanakyavasantha&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Stats">
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=codechiefVignesh&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Stats">
 </a>
 <a>
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanakyavasantha&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=codechiefVignesh&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
 </a>
 
 
