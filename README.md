@@ -35,7 +35,7 @@
 
 ## 📈 Stats 📉
 
-[![GitHub Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2chanakyavasantha&label=profile%20views&labelColor=%231e1e2e&countColor=%23cba6f7)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fchanakyavasantha)
+[![GitHub Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2chanakyavasantha&label=profile%20views&labelColor=%231e1e2e&countColor=%23cba6f7)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FcodechiefVignesh)
 
 
 <a>
